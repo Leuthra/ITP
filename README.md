@@ -1,10 +1,7 @@
 # IT PROJECT COLLAB
 > this repository for upload your project and get collaborator.
 
-<img width="" src="https://img.shields.io/github/repo-size/amiruldev20/mywajs?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
-
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/leuthra/ITP.svg)](http://isitmaintained.com/project/leuthra/ITP "Average time to resolve an issue")
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/leuthra/ITP.svg)](http://isitmaintained.com/project/leuthra/ITP "Percentage of issues still open")
+<img width="" src="https://img.shields.io/github/repo-size/leuthra/ITP?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 
 You can use git for upload project and you can git push and git commit.
 
